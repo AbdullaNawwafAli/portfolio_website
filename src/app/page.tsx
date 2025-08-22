@@ -1,5 +1,8 @@
+import Button from "@/components/Buttons/Button";
+
 export default function Home() {
   return (
-    <div>hwdwdwd</div>
+    <Button />
+    <div className="bg"></div>
   )
 }
